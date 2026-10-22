@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="wkosh — reverse engineering / cybersecurity">
+  <defs>
+    <linearGradient id="back" x2="1" y2=".7"><stop stop-color="#071525"/><stop offset="1" stop-color="#0c2945"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27618a" stroke-opacity=".16"/></pattern>
+    <linearGradient id="edge"><stop stop-color="#64d7ff"/><stop offset="1" stop-color="#16486e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="10" fill="url(#back)"/>
+  <rect width="1200" height="280" rx="10" fill="url(#grid)"/>
+  <path d="M1 1H1199" stroke="url(#edge)" stroke-width="2"/>
+  <g fill="#3d9ed1" opacity=".35" font-family="Consolas,Menlo,monospace" font-size="14" letter-spacing="6">
+    <text x="690" y="31">01110111 01101011 01101111</text>
+    <text x="722" y="57">01110011 01101000 01110111</text>
+    <text x="690" y="83">01001011 01001111 01010011</text>
+    <text x="754" y="109">00110000 01111000 01100001</text>
+    <text x="690" y="135">10110010 00110101 01000101</text>
+    <text x="722" y="161">11001000 01010101 00111001</text>
+    <text x="690" y="187">01110111 01101011 01101111</text>
+    <text x="754" y="213">01110011 01101000 01110111</text>
+    <text x="690" y="239">01001011 01001111 01010011</text>
+    <text x="722" y="265">00110000 01111000 01100001</text>
+  </g>
+  <rect x="40" y="45" width="26" height="5" rx="2" fill="#59cbff"/>
+  <text x="79" y="53" fill="#79b5d8" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3">77 6b 6f 73 68</text>
+  <text x="40" y="163" fill="#e6f5ff" font-family="Consolas,Menlo,monospace" font-size="98" font-weight="700" letter-spacing="-6">wkosh<tspan fill="#53c7ff">_</tspan></text>
+  <text x="44" y="208" fill="#9cd4f4" font-family="Consolas,Menlo,monospace" font-size="19" letter-spacing="1">reverse engineering / cybersecurity</text>
+  <path d="M44 237H480" stroke="#27618a"/>
+  <circle cx="1134" cy="237" r="4" fill="#57caff"/>
+</svg>

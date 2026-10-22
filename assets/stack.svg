@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="50" viewBox="0 0 780 50" role="img" aria-label="Python, C#, .NET, Windows, Git">
+  <rect width="780" height="50" rx="8" fill="#091627"/>
+  <path d="M0 1H780" stroke="#245c85"/>
+  <g font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle">
+    <g fill="#bdeaff"><text x="78" y="31">PYTHON</text><text x="234" y="31">C#</text><text x="390" y="31">.NET</text><text x="546" y="31">WINDOWS</text><text x="702" y="31">GIT</text></g>
+    <g stroke="#20405c"><path d="M156 13V37"/><path d="M312 13V37"/><path d="M468 13V37"/><path d="M624 13V37"/></g>
+  </g>
+</svg>
