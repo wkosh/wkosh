@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="66" viewBox="0 0 320 66" role="img" aria-label="JavaScript documentation">
+  <defs><linearGradient id="card"><stop stop-color="#0c1b30"/><stop offset="1" stop-color="#231a40"/></linearGradient></defs>
+  <rect x="1" y="1" width="318" height="64" rx="8" fill="url(#card)" stroke="#34446b"/>
+  <text x="19" y="42" fill="#7fcbff" font-family="Consolas,Menlo,monospace" font-size="21" font-weight="700">JS</text>
+  <text x="90" y="41" fill="#d7e6ff" font-family="Consolas,Menlo,monospace" font-size="17">JavaScript</text>
+  <text x="290" y="40" fill="#8e9dd5" font-family="sans-serif" font-size="16">↗</text>
+</svg>
