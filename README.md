@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/header.svg" width="100%" alt="wkosh — reverse engineering and cybersecurity, blue binary header" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/header.svg?v=2" width="100%" alt="wkosh — reverse engineering and cybersecurity, blue and purple binary header" />
 </p>
 
 <p align="center">
@@ -11,16 +11,14 @@
 
 ## About
 
-<img align="right" src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/rei-episode-06.jpg" width="230" alt="Rei Ayanami in Neon Genesis Evangelion, episode 6" />
-
 I'm **wkosh**, from Brazil. I like figuring out how software works, especially Windows applications, and building things of my own.
 
 **Reverse engineering and cybersecurity** are what I'm spending more time on. I also vibe-code: I use AI to prototype ideas, and I'm learning by reading, testing, and reworking what comes out of it.
 
-<br clear="both" />
+### Languages & tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/stack.svg" width="650" alt="Building with Python, C#, .NET, Windows and Git" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/stack.svg?v=2" width="100%" alt="Languages and tools: Python, JavaScript, C++, C#, .NET and Git" />
 </p>
 
 ## Projects
@@ -47,7 +45,7 @@ I'm **wkosh**, from Brazil. I like figuring out how software works, especially W
 ```text
 reverse engineering    / managed binaries · program behavior · control flow
 defensive security     / configuration review · static analysis
-building               / Python tools · C# · .NET · Windows
+building               / Python · JavaScript · C++ · C# · .NET · Windows
 ```
 
 ## Say hello
@@ -62,6 +60,6 @@ Working on something around **software analysis, defensive tools, or Windows int
 <p><sub>For security-sensitive reports, use the affected project's security policy instead of a public profile issue.</sub></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/binary-footer.svg" width="100%" alt="Blue binary grid — observe, disassemble, understand" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/binary-footer.svg?v=2" width="100%" alt="Blue and purple binary grid" />
   <sub>Brasil · Português / English · Rei frame: <a href="https://animediet.net/commentary/the-anno-age-hideaki-anno-and-my-early-fandom-part-1">Neon Genesis Evangelion, episode 6</a> · © GAINAX / Project Eva.</sub>
 </p>

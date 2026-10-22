@@ -1,6 +1,6 @@
 # Profile design
 
-Blue, navy and cyan; binary digits and simple typography. The header, technology strip and footer are SVG graphics maintained as source. No generated illustrations are used in the published profile.
+Blue, navy and purple; binary digits, control-flow graphics and simple typography. The header, technology strip and footer are SVG graphics maintained as source. No generated illustrations are used in the published profile. The original Rei frame is also used as the profile avatar with a circular crop made in GitHub's image picker.
 
 ## Anime frame
 
