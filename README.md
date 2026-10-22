@@ -73,5 +73,5 @@ Working on something around **software analysis, defensive tools, or Windows int
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/binary-footer-v2.svg" width="100%" alt="Blue and purple binary grid" />
-  <sub>Brasil · Português / English · Rei frame: <a href="https://animediet.net/commentary/the-anno-age-hideaki-anno-and-my-early-fandom-part-1">Neon Genesis Evangelion, episode 6</a> · © GAINAX / Project Eva.</sub>
+  <sub>Brasil · Português / English</sub>
 </p>
