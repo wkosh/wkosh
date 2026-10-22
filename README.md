@@ -24,12 +24,12 @@ I'm **wkosh**, from Brazil. I like figuring out how software works, especially W
   <tr>
     <td width="33%" align="center"><a href="https://docs.python.org/3/"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-python.svg" width="280" alt="Python documentation" /></a></td>
     <td width="33%" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-javascript.svg" width="280" alt="JavaScript documentation" /></a></td>
-    <td width="33%" align="center"><a href="https://isocpp.org/get-started"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-cpp.svg" width="280" alt="C++ getting started" /></a></td>
+    <td width="33%" align="center"><a href="https://learn.microsoft.com/en-us/cpp/cpp/"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-cpp.svg" width="280" alt="C++ documentation" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-csharp.svg" width="280" alt="C# documentation" /></a></td>
     <td align="center"><a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-dotnet.svg" width="280" alt=".NET documentation" /></a></td>
-    <td align="center"><a href="https://git-scm.com/doc"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-git.svg" width="280" alt="Git documentation" /></a></td>
+    <td align="center"><a href="https://git-scm.com/docs"><img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/lang-git.svg" width="280" alt="Git documentation" /></a></td>
   </tr>
 </table>
 
