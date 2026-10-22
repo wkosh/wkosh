@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/header.svg?v=2" width="100%" alt="wkosh — reverse engineering and cybersecurity, blue and purple binary header" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/header-v2.svg" width="100%" alt="wkosh — reverse engineering and cybersecurity, blue and purple binary header" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I'm **wkosh**, from Brazil. I like figuring out how software works, especially W
 ### Languages & tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/stack.svg?v=2" width="100%" alt="Languages and tools: Python, JavaScript, C++, C#, .NET and Git" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/stack-v2.svg" width="100%" alt="Languages and tools: Python, JavaScript, C++, C#, .NET and Git" />
 </p>
 
 ## Projects
@@ -60,6 +60,6 @@ Working on something around **software analysis, defensive tools, or Windows int
 <p><sub>For security-sensitive reports, use the affected project's security policy instead of a public profile issue.</sub></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/binary-footer.svg?v=2" width="100%" alt="Blue and purple binary grid" />
+  <img src="https://raw.githubusercontent.com/wkosh/wkosh/main/assets/binary-footer-v2.svg" width="100%" alt="Blue and purple binary grid" />
   <sub>Brasil · Português / English · Rei frame: <a href="https://animediet.net/commentary/the-anno-age-hideaki-anno-and-my-early-fandom-part-1">Neon Genesis Evangelion, episode 6</a> · © GAINAX / Project Eva.</sub>
 </p>

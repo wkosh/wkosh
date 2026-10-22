@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="wkosh — reverse engineering / cybersecurity">
+  <defs>
+    <linearGradient id="back" x2="1" y2=".5"><stop stop-color="#081323"/><stop offset=".5" stop-color="#0b2140"/><stop offset="1" stop-color="#281b4c"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#869eff" stroke-opacity=".085"/></pattern>
+    <linearGradient id="edge"><stop stop-color="#59d7ff"/><stop offset=".5" stop-color="#5d91ff"/><stop offset="1" stop-color="#b48cff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7962dc" stop-opacity=".2"/><stop offset="1" stop-color="#7962dc" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="12" fill="url(#back)"/>
+  <rect width="1200" height="320" rx="12" fill="url(#grid)"/>
+  <ellipse cx="990" cy="160" rx="280" ry="230" fill="url(#glow)"/>
+  <path d="M12 1H1188M12 319H1188" stroke="url(#edge)" stroke-opacity=".6"/>
+  <g fill="#82a7ff" opacity=".26" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="5">
+    <text x="690" y="31">01110111 01101011 01101111</text>
+    <text x="722" y="57">01110011 01101000 01110111</text>
+    <text x="690" y="83">01001011 01001111 01010011</text>
+    <text x="754" y="109">00110000 01111000 01100001</text>
+    <text x="690" y="135">10110010 00110101 01000101</text>
+    <text x="722" y="161">11001000 01010101 00111001</text>
+    <text x="690" y="187">01110111 01101011 01101111</text>
+    <text x="754" y="213">01110011 01101000 01110111</text>
+    <text x="690" y="239">01001011 01001111 01010011</text>
+    <text x="722" y="265">00110000 01111000 01100001</text>
+    <text x="690" y="291">01110111 01101011 01101111</text>
+  </g>
+  <g stroke="url(#edge)" fill="#111e3b" fill-opacity=".92" stroke-width="1.5">
+    <rect x="904" y="67" width="150" height="48" rx="6"/>
+    <path d="M979 115V145H872V175M979 145H1086V175" fill="none"/>
+    <rect x="806" y="175" width="132" height="48" rx="6"/>
+    <rect x="1020" y="175" width="132" height="48" rx="6"/>
+    <path d="M872 223V250H1086V223" fill="none"/>
+    <circle cx="979" cy="250" r="4" fill="#a08bff"/>
+  </g>
+  <g fill="#bdd6ff" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14"><text x="979" y="97">entry_point</text><text x="872" y="205">inspect</text><text x="1086" y="205">understand</text></g>
+  <rect x="44" y="46" width="25" height="5" rx="2" fill="#59d7ff"/>
+  <text x="82" y="53" fill="#8fafd4" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3">77 6b 6f 73 68</text>
+  <text x="40" y="176" fill="#e6f5ff" font-family="Consolas,Menlo,monospace" font-size="112" font-weight="700" letter-spacing="-6">wkosh<tspan fill="#a58bff">_</tspan></text>
+  <text x="46" y="220" fill="#acccf6" font-family="Consolas,Menlo,monospace" font-size="19">reverse engineering / cybersecurity</text>
+  <path d="M46 249H542" stroke="url(#edge)" stroke-width="2"/>
+  <text x="46" y="280" fill="#819bbb" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="2">SOFTWARE · INTERNALS · EXPERIMENTS</text>
+</svg>
